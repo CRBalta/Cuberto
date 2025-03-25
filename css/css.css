@@ -22,7 +22,8 @@ body {
     align-items: flex-start;
 }
 .section-1 h1 {
-    font-size: 2.5rem; /* Hace que el texto sea más grande */
+    font-size: 2.5rem; 
+    color: #40E0D0; 
 }
 .section-2, .section-3, .section-4 {
     text-align: center;
